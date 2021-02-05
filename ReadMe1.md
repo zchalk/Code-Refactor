@@ -33,4 +33,4 @@ THEN I find a concise, descriptive title
 
 My Website - https://zchalk.github.io/Code-Refractor/
 <!-- <img href= "assets/images/me.png"> -->
-![MyPage] (./assets/images/me.png)
+![MyPage] (https://github.com/zchalk/Code-Refractor/blob/main/assets/images/me.png)
