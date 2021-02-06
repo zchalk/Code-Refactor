@@ -2,7 +2,7 @@
 
 ## Description
 
-This was an assignment to refactor existing code, or make it more efficient and sustainable. Here we were asked to organize as well as meet accesibility standards. To meet those standards I arranged my code from top to bottom, as it should be read. I also eliminated all but one necessary div to adhere to the proper semantic syntax, added descriptions to images to further accesssibility, and added a more descriptive title for this webpage. 
+This was an assignment to refactor existing code, or make it more efficient and sustainable. Here we were asked to organize as well as meet accesibility standards. To meet those standards I arranged my code from top to bottom, as it should be read. I also eliminated all divs to adhere to the proper semantic syntax, added descriptions to images to further accesssibility, and added a more descriptive title for this webpage. 
 
 My requirements:
 
