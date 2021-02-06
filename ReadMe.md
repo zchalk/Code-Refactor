@@ -31,6 +31,6 @@ THEN I find a concise, descriptive title
 ```
 
 
-My Website - https://zchalk.github.io/Code-Refactor/
+My Website -  https://zchalk.github.io/Zoes-Horiseon-Code-Refactor/.
 <!-- <img href= "assets/images/me.png"> -->
 ![alt text](assets/images/me.png)
