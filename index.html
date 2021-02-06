@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
+<!-- Within the head, all I have changed in the title from the generic "website" to something specific. -->
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <title> Horiseon Marketing - Home </title>
-    <img href= "assets/images/me.png"
+    <img href= "assets/images/me.png">
 </head>
 
 <body>
+<!-- I changed the non-semantic div elements to the more specific header and nav tags. -->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
@@ -25,9 +26,11 @@
             </ul>
         </nav>
     </header>
+<!-- Here I used the semantic figure tag instead of an ill named div. -->
     <figure alt= "Generic image of people in a meeting, but it is a 'cool' meeting."></figure>
+
     <main>
-       
+       <!-- In the main, I changed all divs into sections and used the main tag. The only class which remains in on the images which is needed for formatting opurposes. -->
         <section>
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left-img" alt="Generic image of notebook on desk which reads SEO" />
             <h2>Search Engine Optimization</h2>
@@ -50,7 +53,9 @@
             </p>
         </section>
     </main>
+
     <aside>
+        <!-- I changed this div to the aside tag since it is a side bar on the page. I also chnaged divs to sections -->
         <section>
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt= "logo"/>
@@ -73,12 +78,14 @@
             </p>
         </div>
     </aside>
+
     <footer>
+        <!-- I changed this div tag to the footer tag as it is the end cap of this page. -->
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
     </footer>
 </body>
-
+<!-- All changes were made to meet accessibility standards by using semantic tags as well as adding alt ids to all images for page reading. -->
 </html>

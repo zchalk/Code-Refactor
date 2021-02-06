@@ -11,7 +11,7 @@ body {
 }
 
 
-
+/* Minor changes in the header, only changing the names to reflect changes in the index. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,7 +59,7 @@ p {
 }
 
 
-
+/* This was changed to reflect the new tag. */
 figure {
     height: 800px;
     width: 100%;
@@ -70,7 +70,7 @@ figure {
 }
 
 
-
+/* More significant changes here, changed names to reflect changes to the index, but also condenced the css to cover all h2s and sections instead of styling each individually. */
 main {
     width: 75%;
     display: inline-block;
@@ -104,7 +104,7 @@ main section {
 }
 
 
-
+/* Again, significant changes here, changed names to reflect changes to the index, but also condenced the css to cover all h3s and sections instead of styling each individually. I also had to remove the aside's height = 100% value for a reason I'm unsure of. My first chnage was to use the footer tag, this changed the height calue's behavior.*/ 
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -132,7 +132,7 @@ aside section img {
 }
 
 
-
+/* Here I changed the name to reflect the index. */
 footer {
     padding: 30px;
     clear: both;
